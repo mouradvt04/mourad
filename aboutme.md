@@ -1,15 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Later
 ---
+Dr. Mourad Ouzzani is a Principal Scientist at Qatar Computing Research Institute (QCRI), HBKU, Doha, Qatar. Prior to joining QCRI in May 2011, Mourad was a Research Associate Professort at Purdue University. Mourad obtained his PhD. degree from Virginia Tech and his MS and BS from USTHB, Algiers, Algeria. Mourad conducts research in data integration, data quality, spatio temporal data management, and database systems for scientific data. Mourad is leading Rayyan, a system for systematic reviews serving more than 2000 users worldwide. Mourad has published extensively in top database venues including SIGMOD, VLDB, and ICDE. He received two Seed for Success Awards from Purdue University. He received two best demo awards from ICDE 2019 and SIGMOD 2015.
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
 
 ### my history
 
